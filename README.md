@@ -5,7 +5,7 @@
 
 # 📌 Description
 
-Problems solved by me in the Programming Marathon - SemComp RP 2021 (USP-RP).
+Problems solved by me in the Programming Marathon - SemComp RP 2021 (USP-RP). 5th position.
 
 ## :book: Used languages 
 [![Python](https://img.shields.io/static/v1?label=Python&message=3.8&colorA=blue&color=black&logo=Python&logoColor=yellow)](https://www.python.org/)
